@@ -1,2 +1,5 @@
 SciPy stands for Scientific Python.
 SciPy is a scientific computation library that uses NumPy underneath.
+It provides more utility functions for optimization, stats and signal processing.
+SciPy is open source like NumPy.
+SciPy was created by NumPy's creator Travis Olliphant.
